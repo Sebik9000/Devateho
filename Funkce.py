@@ -1,3 +1,3 @@
 def pozdrav(jmeno):
     print("Ahoj", jmeno)
-pozdrav
+pozdrav("Vietnamec")
