@@ -1,2 +1,3 @@
-def say_hello(Sebik):
-    print("Ahoj", Sebik)
+def pozdrav(jmeno):
+    print("Ahoj", jmeno)
+pozdrav
